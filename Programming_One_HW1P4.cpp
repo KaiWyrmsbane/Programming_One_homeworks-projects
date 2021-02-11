@@ -21,7 +21,7 @@ int main()
 	/*
 	 54354 % 10 = 5435.4 we have a remainder of .4 we only need 
 		the remainder for the first digit
-	 54354 % 100 = 543.54 we have a remainder of 54, 54/10=5.4 
+	 54354 % 100 = 543.54 we have a remainder of .54, 54/10=5.4 
 		this will seperate the 5 from the other digits, we needed 
 		to divide that way we can seperate the 5 from the 4.
 	*/
