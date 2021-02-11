@@ -10,7 +10,7 @@ using namespace std;
 //if you're working with classes then use this method
 //using std::cin;
 //using std::cout;
-//std::endl;
+//using std::endl;
 
 int main()
 {
