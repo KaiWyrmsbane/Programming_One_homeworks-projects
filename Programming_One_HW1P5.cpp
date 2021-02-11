@@ -10,7 +10,7 @@ int main()
 {
 	/*
 	 Problem 5 of homework 1 wants a program that will obtain
-	 mileage of a users auotmobile. Using a while statments we
+	 mileage of a users auotmobile. Using a while statment we
 	 want to keep track of multiple trips that the user goes on.
 	 The user must input miles driven, and gallons used for each
 	 trip.
